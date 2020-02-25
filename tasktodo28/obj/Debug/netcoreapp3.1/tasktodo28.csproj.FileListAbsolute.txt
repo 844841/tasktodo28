@@ -1,0 +1,11 @@
+D:\Users\Admin\source\repos\tasktodo28\tasktodo28\bin\Debug\netcoreapp3.1\tasktodo28.exe
+D:\Users\Admin\source\repos\tasktodo28\tasktodo28\bin\Debug\netcoreapp3.1\tasktodo28.deps.json
+D:\Users\Admin\source\repos\tasktodo28\tasktodo28\bin\Debug\netcoreapp3.1\tasktodo28.runtimeconfig.json
+D:\Users\Admin\source\repos\tasktodo28\tasktodo28\bin\Debug\netcoreapp3.1\tasktodo28.runtimeconfig.dev.json
+D:\Users\Admin\source\repos\tasktodo28\tasktodo28\bin\Debug\netcoreapp3.1\tasktodo28.dll
+D:\Users\Admin\source\repos\tasktodo28\tasktodo28\bin\Debug\netcoreapp3.1\tasktodo28.pdb
+D:\Users\Admin\source\repos\tasktodo28\tasktodo28\obj\Debug\netcoreapp3.1\tasktodo28.csprojAssemblyReference.cache
+D:\Users\Admin\source\repos\tasktodo28\tasktodo28\obj\Debug\netcoreapp3.1\tasktodo28.AssemblyInfoInputs.cache
+D:\Users\Admin\source\repos\tasktodo28\tasktodo28\obj\Debug\netcoreapp3.1\tasktodo28.AssemblyInfo.cs
+D:\Users\Admin\source\repos\tasktodo28\tasktodo28\obj\Debug\netcoreapp3.1\tasktodo28.dll
+D:\Users\Admin\source\repos\tasktodo28\tasktodo28\obj\Debug\netcoreapp3.1\tasktodo28.pdb
